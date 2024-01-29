@@ -79,9 +79,4 @@
 
 <br/>  
 
-
-## Leetcode Stats
-<div align="center"><a hhref="https://leetcode.card.workers.dev/diorsjoy?theme=unicorn&font=&extension=null"/></div>  
-<br/>  
-
 ----
