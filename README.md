@@ -81,7 +81,7 @@
 
 
 ## Leetcode Stats
-![LeetCode Stats](https://leetcode.card.workers.dev/diorsjoy?theme=unicorn&font=&extension=null)  
+<div align="center"><![LeetCode Stats](https://leetcode.card.workers.dev/diorsjoy?theme=unicorn&font=&extension=null)>
 <br/>  
 
 ----
