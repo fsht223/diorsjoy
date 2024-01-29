@@ -1,8 +1,3 @@
-<div align="center">
-<img src="https://pbs.twimg.com/media/F_n_YOxbgAAEs5j?format=jpg&name=4096x4096" align="center" style="width: 100%" />
-</div>  
-  
-
 ### <div align="center">Alina Nishan, KZ 🇰🇿</div>  
   
 
@@ -85,25 +80,8 @@
 <br/>  
 
 
-## Recent Blog Posts  
-Pls  
-  
-
+## Leetcode Stats
+<div align="center"><![LeetCode Stats](https://leetcode.card.workers.dev/diorsjoy?theme=unicorn&font=&extension=null)></div>  
 <br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
-
-<div align="center">
-<img src="https://komarev.com/ghpvc/?username=diorsjoy&&style=flat-square" align="center" />
-</div>  
-  
-
-<br/>  
-
-
-<br />
 
 ----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
