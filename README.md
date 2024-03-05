@@ -1,4 +1,4 @@
-### <div align="center">Alina Nishan, KZ 🇰🇿</div>  
+### <div align="center">Alisher Ibrayev, KZ 🇰🇿</div>  
   
 
 - 💻 Majoring in SWE  
